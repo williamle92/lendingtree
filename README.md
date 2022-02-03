@@ -5,4 +5,16 @@ This spider was designed to accept requests from lendingtree.com URLs (https://w
 ## Getting Started 
 This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
 '''python
-git remote add clone "
+git remote add clone https://github.com/williamle92/lendingtree.git
+'''
+## Installation
+1. Optional: Create a virtual environment using "python -m venv venv
+2. "pip install -r requirements.txt" to the venv
+3. To run commands on scrapyrt API [Scrapyrt](https://scrapyrt.readthedocs.io/en/stable/)
+''' scrapyrt '''
+4. Enter the following code into your browser: http://127.0.0.1:9080/crawl.json?spider_name=lending_spider&start_requests=true&max_requests=5&crawl_args={"cat":"personal/marcus-by-goldman-sachs/65656551"}
+5. To set a limit on a request add &max_request={int} (ie http://127.0.0.1:9080/crawl.json?spider_name=lending_spider&start_requests=true&max_requests=5)
+6. To end session ctrl + c
+
+## Contact
+William Le williamkle92@gmail.com

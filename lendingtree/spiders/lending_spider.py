@@ -22,7 +22,6 @@ class LendingSpiderSpider(scrapy.Spider):
     
 
     def parse(self, response):
-
         driver = response.meta['driver']
         # Look for the more review button and set it to a variable
         more_review = driver.find_element_by_xpath('//button[@class="moreReviewBtn"]')
@@ -48,7 +47,3 @@ class LendingSpiderSpider(scrapy.Spider):
         
 
 
-# To run: scrapyrt
-#  http://127.0.0.1:9080/crawl.json?spider_name=lending_spider&start_requests=true&max_requests=5
-# https://www.lendingtree.com/reviews/mortgage/silver-fin-capital-group/37405089
-# >http://127.0.0.1:9080/crawl.json?spider_name=lending_spider&start_request=&url=https://www.lendingtree.com/reviews/mortgage/silver-fin-capital-group/37405089

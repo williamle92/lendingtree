@@ -1,0 +1,135 @@
+2022-02-03 05:44:07 [scrapy] DEBUG: Crawled (200) <GET https://www.lendingtree.com/robots.txt> (referer: None)
+2022-02-03 05:44:08 [scrapy] DEBUG: Crawled (200) <GET https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551> (referer: None)
+2022-02-03 05:44:09 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551>
+{'title': 'Lowest possible rate', 'content': 'Really easy process. They provided a great rate and the funds were in my account even faster than the timeline they provided. Highly recommend!', 'author': 'Andy', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in February 2022'}
+2022-02-03 05:44:09 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551>
+{'title': 'Awesome experience.', 'content': 'Process took no more than 2 days for me and the funds were deposited into my account quickly. Thank you so much!!', 'author': 'Letty', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in February 2022'}
+2022-02-03 05:44:09 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551>
+{'title': 'Marcus by Goldman Sachs using Lending Tree', 'content': 'I was looking for a way to reduce my interest payments on a couple of bills that I had, both credit card and personal loans.  I compared the offers that I received and Marcus rate and service was well above what the others were offering me.  I worked hard to get my credit scores up and Marcus rewarded me with a great rate, while the others were still charging high rates not much lower than the credit card companies.', 'author': 'Richard', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in February 2022'}
+2022-02-03 05:44:09 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551>
+{'title': 'Simple process', 'content': 'Marcus by Goldman Sachs made the process of getting a personal loan simple and fast! No unnecessary hoops to jump through and easy to understand the terms of the loan. ', 'author': 'Gail', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 05:44:09 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551>
+{'title': 'It was a very good experience', 'content': 'It was easy process and was very happy with my experience. I would', 'author': 'Bonnie', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 05:44:09 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551>
+{'title': 'The loan process was easy and fast!', 'content': 'I did not realize that the loan process would be so fast and simple to apply.  Other companies wanted so much paperwork and the process much too long.  I am very happy I took out a loan with Marcus by Goldman Sachs and I know where to go for my next loan.  ', 'author': 'Jerry', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 05:44:09 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551>
+{'title': 'Quick, easy, great rate!', 'content': 'It was super easy, received the money in a few days. Looked different options, Marcus had the best rates.', 'author': 'Wanda', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 05:44:09 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551>
+{'title': 'Never easier', 'content': 'I was surprised at how quickly this loan processed and how easy it was to Apply.  Great rates and excellent service ', 'author': 'Lisa', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 05:44:09 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551>
+{'title': 'Excellent ', 'content': 'Fast competitive results, great choice of rates and terms. Plus, quick qualifications made this experience so easy and professional. Thank you for great service.', 'author': 'Karin', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 05:44:09 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551>
+{'title': 'Easy Process with quick turnaround. ', 'content': 'Applying for the loan was easy, fast and stress free.  I applied on a Saturday and had the funds by Wednesday(with a federal holiday on Monday).  Setup online was easy. ', 'author': 'Jeff', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 05:44:11 [scrapy] DEBUG: Crawled (200) <GET https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=2> (referer: https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551)
+2022-02-03 05:44:11 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=2>
+{'title': 'The experience was great and timely!', 'content': 'The process was done in a timely manner.  Everything happened  just the way they said it would happen.  I was approved within minutes.  I could not have asked for a better outcome.  ', 'author': 'Darrell', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 05:44:11 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=2>
+{'title': 'Quick easy no hassle', 'content': 'Everything was very easy and quick. I got the approval right away and the funds were available a few days later', 'author': 'Wolphy', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 05:44:11 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=2>
+{'title': 'Excellent loan experience ', 'content': 'The whole process was easy, quick and painless. It was 3 days maximum between checking rates, applying online, getting approved and disbursement of loan to my account. First time ever. Great service. ', 'author': 'JM', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 05:44:11 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=2>
+{'title': 'Personal finance loan ', 'content': 'The process was quick and easy! It took only a few hours. The no charge low interest rates was amazing. ', 'author': 'Billy', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 05:44:11 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=2>
+{'title': 'Very Fast & Good experience', 'content': '1. Very Fast process of the loan.', 'author': 'Kevin', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 05:44:11 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=2>
+{'title': 'Great Company', 'content': 'Process was easy and smooth. Great company and I am looking forward with working them. I was glad they were there for me.', 'author': 'Mike', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 05:44:11 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=2>
+{'title': 'So happy I did this ', 'content': 'It was the smoothest and easiest process by far. I wish I had done it sooner. I was honestly skeptical at first because I had never heard of them before but I am so happy I went with them. And they are some of the nicest people that I have dealt with.  ', 'author': 'Taylor', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 05:44:11 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=2>
+{'title': 'Great experience ', 'content': 'This was hands down the best lending process I have ever had. It was very quick and the application process could not have been easier. Huge fan! ', 'author': 'BJ', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 05:44:11 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=2>
+{'title': 'People nice website sucks', 'content': "Spoke with very nice people.  Was able to login once and then after that and changing my password multiple times as directed locked out of website.  I called help number and they sent ticket to IT to help me since I'm still locked out and no one has called.", 'author': 'Alice', 'star_rating': '(3 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 05:44:11 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=2>
+{'title': 'Excellent Rates, No Bulky Paperwork and Quick Funding', 'content': 'I highly recommend Marcus, they have excellent rates and the entire process was completed with in 5 days without a bunch of bulky paperwork.  I am totally impressed with their process and will definitely use them again if needed and as previous stated, I highly recommend Marcus as your first option.', 'author': 'Samuel', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 05:44:13 [scrapy] DEBUG: Crawled (200) <GET https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=3> (referer: https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=2)
+2022-02-03 05:44:13 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=3>
+{'title': 'Little trying but overall great experience', 'content': "So the pay your credit card directly and lower your rate was a misleading since they don't have all bank cards (mine was Navy Federal so not a small bank) they pay.  I had to over pay another card and transfer the balance which cost me a little in fees.  That's the only reason they aren't 5 stars because the rest of the process and working through that little hiccup with a phone representative was easy and friendly experience.", 'author': 'Kenny', 'star_rating': '(4 of 5)', 'date_of_review': 'Reviewed in December 2021'}
+2022-02-03 05:44:13 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=3>
+{'title': 'Best decision ever ', 'content': 'So straight forward and easy to apply and get approval! No fee, same loan term with less apr, was a no brainer!', 'author': 'Chet', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in December 2021'}
+2022-02-03 05:44:13 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=3>
+{'title': 'Easy loan took longer to get money', 'content': 'Getting the loan was easy and quick. Receiving the money took 4 days after approval. Overall satisfied with the loan.', 'author': 'John', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in December 2021'}
+2022-02-03 05:44:13 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=3>
+{'title': 'Marcus by Goldman Sachs - Excellent Rating', 'content': 'My loan was done on-line, and completed in two business days.  I was contacted on the phone to verify the money was in the accounts I provided and they were!  What was even more amazing was the phone call to make sure the transfers were completed sucessfully and provide contact information if any questions came up.  Being able to track progress online was great!  The whole process was easy and quick and I could not have asked for any more excellent service!  Lowest rate also.', 'author': 'Linda', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in December 2021'}
+2022-02-03 05:44:13 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=3>
+{'title': 'Loan', 'content': 'From start to finish my loan process was simple and easy. I am happy with my payment and rate. Thank you', 'author': 'Lisa', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in December 2021'}
+2022-02-03 05:44:13 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=3>
+{'title': 'Great experience.', 'content': 'Whole process was quick and easy.  Funds were available almost immediately. Would recommend to friends and family.', 'author': 'Drew', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in December 2021'}
+2022-02-03 05:44:13 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=3>
+{'title': 'Very good experience ', 'content': 'Getting quote and processed for loan was very fast and easy.  Loan associate I talked to on phone was very nice and helpful', 'author': 'Michael', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in December 2021'}
+2022-02-03 05:44:13 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=3>
+{'title': 'Expeditious and Excellent Experience ', 'content': 'The entire process took less than 72 hours from start to finish.  The best part was No Fee and a fixed rate!!!', 'author': 'YVONNE', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in December 2021'}
+2022-02-03 05:44:13 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=3>
+{'title': 'Fast, convenient and reliable', 'content': 'No hassle with filling out information, straight forward questions and fast approval! Glad I found this loan service to help my financial need. ', 'author': 'Senyorita', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in December 2021'}
+2022-02-03 05:44:13 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=3>
+{'title': 'A great company to work with', 'content': 'The process was so easy and so fast! The rep was helpful and friendly. Really a pleasure doing business with these guys!!', 'author': 'Gloria', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in December 2021'}
+2022-02-03 05:44:15 [scrapy] DEBUG: Crawled (200) <GET https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=4> (referer: https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=3)
+2022-02-03 05:44:15 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=4>
+{'title': 'Great service', 'content': 'The entire process was easy and convenient. The processing time was in a reasonable amount of time. The rate and payments are affordable. ', 'author': 'Tmichelle', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in November 2021'}
+2022-02-03 05:44:15 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=4>
+{'title': 'Excellent experience', 'content': 'I received offers via email and when I made my selection, the processes was easy and fast. Once I received my loan, I downloaded their app and it is easy to use and very helpful. I would definitely use them again. ', 'author': 'Ben', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in November 2021'}
+2022-02-03 05:44:15 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=4>
+{'title': 'Simple and quick', 'content': 'The process was extremely easy and took only a few minutes.  Great rate and fast payout. I’m very pleased and would highly recommend this company. ', 'author': 'Teresa', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in November 2021'}
+2022-02-03 05:44:15 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=4>
+{'title': 'great experience', 'content': 'Process was extremely easy and very professional. I would recommend them to any one looking to make a loan.', 'author': 'Bonne', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in November 2021'}
+2022-02-03 05:44:15 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=4>
+{'title': 'It was easy to apply and very quick. ', 'content': 'My experience was awesome. I applied and received my approval very quick. Application and document signature was done immediately and funds were credited to my credit cards and my account promptly. I will definitely recommend the lending company to all my contacts. Thank you. ', 'author': 'Susana', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in November 2021'}
+2022-02-03 05:44:15 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=4>
+{'title': 'Simple! Fast! And Easy!', 'content': 'The entire process was easy, simple and fast.', 'author': 'Cesar', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in November 2021'}
+2022-02-03 05:44:15 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=4>
+{'title': 'Happy', 'content': ' I Applied for a personal loan and was approved right away and by two days I got the money , thank you  ', 'author': 'Alex', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in November 2021'}
+2022-02-03 05:44:15 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=4>
+{'title': 'I am relieved', 'content': "The process was easier than I could've ever imagined. I am so happy I took the step to improve my financial future. ", 'author': 'JULIA', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in November 2021'}
+2022-02-03 05:44:15 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=4>
+{'title': 'Great!', 'content': 'They just make it easy and simple all the process. I’m very grateful with Marcus. I signed up online and I got it!', 'author': 'Alix', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in November 2021'}
+2022-02-03 05:44:15 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=4>
+{'title': 'Fantastic experience, quick results. ', 'content': 'It was very easy process and received the money quickly.  Friendy people and a very good interest rate. I highly recommend.  ', 'author': 'Steven', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in November 2021'}
+2022-02-03 05:44:17 [scrapy] DEBUG: Crawled (200) <GET https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=5> (referer: https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=4)
+2022-02-03 05:44:18 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=5>
+{'title': 'Absolutely wonderful experience', 'content': "I was very leery of going through an online lender; however, decided to try.  One key deciding factor to choose them, was in large part due to their name/reputation.  This was a very simple process and was able to do everything online or phone. I'm very happy with this decision and the money was deposited in my account before the estimated 4 business day waiting period.  Would highly recommend to anyone needing a loan.", 'author': 'Dena', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in November 2021'}
+2022-02-03 05:44:18 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=5>
+{'title': 'Immediate approval ', 'content': 'The entire process was simple. Approval process and loan funding to my account was completed within 2 days!', 'author': 'Coleen', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in November 2021'}
+2022-02-03 05:44:18 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=5>
+{'title': 'Look no further!', 'content': 'After securing a loan with Marcus I will never look for another lender. To say the process was quick and easy is an understatement. From my first phone call to a very knowledgeable and attentive Marcus associate to my last chat interaction on their website Marcus provides a whole new level of customer service and satisfaction. Game changer is an overused cliche so I’ll just say game over and Marcus pitched a shutout. Thank you Marcus!', 'author': 'Jack', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in November 2021'}
+2022-02-03 05:44:18 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=5>
+{'title': 'It was a great experience ', 'content': 'The whole process was very easy and it has been a great pleasure working with them. I never thought it would have been so easy.', 'author': 'Dimitri', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in November 2021'}
+2022-02-03 05:44:18 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=5>
+{'title': 'Exactly what I needed when I needed it', 'content': 'The process was incredibly easy: the terms were fair, the process was easy to follow, and the money was deposited quickly. ', 'author': 'Lisa', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in October 2021'}
+2022-02-03 05:44:18 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=5>
+{'title': 'Quick and easy process', 'content': 'The process was very quick and easy.  Rates were decent, as were the payback options available.  Overall very pleased with the process.', 'author': 'John', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in October 2021'}
+2022-02-03 05:44:18 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=5>
+{'title': 'Very Easy ', 'content': 'I was approved on Friday. The funding occurred on Monday. A straightforward project. They provided a reasonable loan rate with flexible terms. ', 'author': 'Diane', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in October 2021'}
+2022-02-03 05:44:18 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=5>
+{'title': 'Quick and Easy', 'content': "I opted for Marcus by Goldman Sachs for my credit card consolidation loan and I couldn't of been happier with how easy it was to apply and get my life back on track (at least monetarily). Within 4-5 days all the credit cards that I had input to have the money allotted to were paid off. It was astounding to see that zero balance that I've been trying to reach for years. I'm excited for my future, and for my credit score to go up. ", 'author': 'Jillian', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in October 2021'}
+2022-02-03 05:44:18 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=5>
+{'title': 'Awesome Experience', 'content': 'The whole process was easy, smooth, and timely.  Like the fact there are no fees (origination, application, etc.) and how engaged they are with you.  Provide updates, check in on you, etc.', 'author': 'Zina', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in October 2021'}
+2022-02-03 05:44:18 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/marcus-by-goldman-sachs/65656551?sort=&pid=5>
+{'title': 'It was a great experience.', 'content': 'I truly appreciated the no fee aspect of the loan.  It was one of the easiest loans I have ever applied for.  I applied for the loan and it was funded within three business days.  ', 'author': 'Julia', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in October 2021'}
+2022-02-03 05:44:18 [scrapy] INFO: Closing spider (stop generating requests, only 5 requests allowed)
+2022-02-03 05:44:18 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 229,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 1166633,
+ 'downloader/response_count': 6,
+ 'downloader/response_status_count/200': 6,
+ 'elapsed_time_seconds': 11.134701,
+ 'finish_reason': 'stop generating requests, only 5 requests allowed',
+ 'finish_time': datetime.datetime(2022, 2, 3, 13, 44, 18, 119999),
+ 'httpcompression/response_bytes': 137,
+ 'httpcompression/response_count': 1,
+ 'item_scraped_count': 50,
+ 'log_count/DEBUG': 138,
+ 'log_count/INFO': 7,
+ 'memusage/max': 56442880,
+ 'memusage/startup': 56442880,
+ 'request_depth_max': 5,
+ 'response_received_count': 6,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 5,
+ 'scheduler/dequeued/memory': 5,
+ 'scheduler/enqueued': 6,
+ 'scheduler/enqueued/memory': 6,
+ 'start_time': datetime.datetime(2022, 2, 3, 13, 44, 6, 985298)}
+2022-02-03 05:44:18 [scrapy] INFO: Spider closed (stop generating requests, only 5 requests allowed)
