@@ -1,0 +1,135 @@
+2022-02-03 04:35:39 [scrapy] DEBUG: Crawled (200) <GET https://www.lendingtree.com/robots.txt> (referer: None)
+2022-02-03 04:35:40 [scrapy] DEBUG: Crawled (200) <GET https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183> (referer: None)
+2022-02-03 04:35:40 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183>
+{'title': 'Fast, easy and the loan parameters I was looking for.', 'content': "I've taken out a few personal loans over the years and this experience was surprisingly straightforward and quickly handled.  I started my application with a representative over the phone, which was followed the next day by an approval notice and brief conversation to go over the details with the loan officer.  I electronically signed the docs from a link in my email.  I got the funds directly deposited the next day.  Great interest rate, no pre-pay penalty, direct deposit setup out of the gate.  Couldn't be happier. ", 'author': 'Chris', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in February 2022'}
+2022-02-03 04:35:40 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183>
+{'title': 'Misleading information', 'content': "Was sent an email saying that my application had made it through the first process and everything was looking good. Only later to receive an email saying to call which I did only to get denied. I am a straight up person when it comes to doing business and don't appreciate this kind of treatment. Will look elsewhere!", 'author': 'Charles', 'star_rating': '(1 of 5)', 'date_of_review': 'Reviewed in February 2022'}
+2022-02-03 04:35:40 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183>
+{'title': 'It was a great experience!', 'content': 'It was very easy to work with them!  I work during the day so it is hard to have enough time to get a loan done but this was much easier.  ', 'author': 'Melody', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in February 2022'}
+2022-02-03 04:35:40 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183>
+{'title': 'Excellent Experience ', 'content': 'This had to be the quickest, easiest abs most pain free loan application abs approval I have ever done! Very impressed. ', 'author': 'Sara', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in February 2022'}
+2022-02-03 04:35:40 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183>
+{'title': 'It was a great experience', 'content': 'Very quick very smooth and very nice. MJ was very attentive to my questions and was very available with email and phone calls.', 'author': 'Kathy', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:40 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183>
+{'title': 'Great Experience ', 'content': 'Carmen was awesome, highly recommend!!!! Hassle free straight to the point and no bull. Awesome Experience and great rates 5⭐️⭐️⭐️⭐️⭐️', 'author': 'Lori', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:40 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183>
+{'title': 'Great service', 'content': 'First Midwest back offers good rates, the loan officers were quick to reply. Closing super fast and smooth. A  service', 'author': 'Martin', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:40 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183>
+{'title': 'Excellent service!', 'content': 'Jasmine was outstanding to deal with. Very professional and welcoming. This is a great outfit, do not hesitate to reach out to them!', 'author': 'Kevin', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:40 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183>
+{'title': 'Excellent Service', 'content': 'I was impressed with the quoted APR for my loan after looking at several offers. Thanks Marcela for your help and professionalism.', 'author': 'Ronald', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:40 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183>
+{'title': 'Great experience ', 'content': 'I had a really great experience with First Midwest.  They made everything seamless and easy to understand. I would definitely suggest using them for anyone in the market for a personal loan.', 'author': 'Jim', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Crawled (200) <GET https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=2> (referer: https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183)
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=2>
+{'title': 'Phenomenal service and understanding ', 'content': 'The experience was one of the least stressful things I’ve done involving money and loans.  Exact numbers were expected from me to make the loan as close as possible for the out come people search for in debt consolidation.  Morgan was exceptionally helpful and patient in serving my family and I the way one would anticipate.  I’m very grateful and humbled by this experience!!!!! Thank you Morgan!! And thank you Midwest!!!', 'author': 'Paul', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=2>
+{'title': 'It was a good experience ', 'content': 'Best rates on lending tree! I looked for months for someone to loan me the cash I needed to help remodel my home. Morgan got me the best rate and it wasn’t even close. ', 'author': 'Brent', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=2>
+{'title': 'It was very good  , once the ball started to roll it went well ', 'content': 'It was very easy to get 1 on1 contact  , no waiting  , everyone was very helpful  . I was always able to get feedback and loan status and was well informed of needed data to continue on with the process. ', 'author': 'Larry', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=2>
+{'title': 'Fast and easy', 'content': 'Patrick got my loan secured in about a day, paper work/process was set up nicely, Fast and easy, would definitely use them again.  ', 'author': 'Jeff', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=2>
+{'title': 'It was a pleasant experience.', 'content': 'The entire process was very easy, and the people were very helpful. I will be happy to use them again if the need arises.', 'author': 'Kevin', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=2>
+{'title': 'Friendly, easy to deal with, great rate. ', 'content': '4-5 days from application to direct deposit.  The process was easy and stress free.  The rep we spoke with from First Midwest Bank was friendly, kind and easy to deal with. I like how quick the process was and how we were provided so much information without asking.  ', 'author': 'Kayla', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=2>
+{'title': 'Great experience', 'content': 'Super easy and super fast. They explained everything and which was the best way to go. The rate was great and perfect loan for what I needed. ', 'author': 'Santina', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=2>
+{'title': 'Very informative and helpful ', 'content': 'Explained everything very well. Friendly too. Belen was a joy to work with. Very helpful with all my questions.', 'author': 'DougMills', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=2>
+{'title': 'It was a good experience ', 'content': 'Process was quick and easy. My loan officer stayed in contact with me thru the whole process to insure that I was able to provide everything they needed to complete the finalization for my loan', 'author': 'Bonnie', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=2>
+{'title': 'Great rates!', 'content': 'Very happy with First Midwest Bank, they gave me a great rate and were very fast and easy to work with', 'author': 'Evan', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Crawled (200) <GET https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=3> (referer: https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=2)
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=3>
+{'title': 'Excellent service and patient staff', 'content': 'The process was difficult on my side. I had problems over many days with getting my paperwork to First Midwest. My loan officer never flinched and patiently worked with me over and over to solve my problem. He saw it to a successful resolution no matter what it took.', 'author': 'John', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=3>
+{'title': 'First Midwest Bank', 'content': 'I had the pleasure of getting a loan with First Midwest Bank. Working with Belen and her team was painless and quick! I highly recommend using First Midwest for your personal loan needs! Great rates and wonderful customer service!', 'author': 'Kylee', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=3>
+{'title': 'Easiest loan process I have ever done.', 'content': 'The process was fast, easy and my account processor was readily available. When I called  she answered every time. I would recommend First Midwest Bank to friends and family.', 'author': 'Darrell', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=3>
+{'title': 'Chrissy is great!', 'content': "Chrissy was well informed, easy to understand, straight to the point and a joy to work with. The process was fast and the paperwork went pretty smoothly. I was a bit sad when the underwriters made a counteroffer, but happily, the difference was slight, and hey! I'll have the loan paid back a year sooner. Hope we can do business again.", 'author': 'Stan', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=3>
+{'title': 'Great Experience', 'content': 'I applied for a home Inprovment loan and got a great rate and terms,Marcela took care of everything  quickly and did not bother me with calls at work ! Great to work with a bank and not a loan company.', 'author': 'Todd', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=3>
+{'title': 'Personal loan', 'content': 'Process went smoothly and Chrissy was such a pleasure to work with. She was awesome. Everything was explained to me and proceeded well. No surprises.. very pleased.', 'author': 'Cynthia', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=3>
+{'title': 'The entire experience was easy, helpful, friendly and rewarding', 'content': 'I use the word rewarding for several reasons.  Chrissy kept in contact with me for a month without badgering me.  She made sure that I understood the terms of a loan from her and she would be available whenever I was ready to go forward.  I research other offers until I was sure First Midwest Bank was the best route for me to go.  I called Chrissy and she made the process very easy and fast.  In the end, I felt I was rewarded with the best loan out there for me.', 'author': 'Judith', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=3>
+{'title': 'It was easy, quick ', 'content': 'Was unbelievably easy to do  thank you for all the help. Chrissy was very informative and helpful. Just a great experience when usually very difficult ', 'author': 'Barry', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=3>
+{'title': 'It was a very streamlined experience', 'content': 'I was in search for a personal loan and applied through Lending Tree online.  First Midwest Bank was among the lenders.  I paused for a few days after my initial inquiry, but Patrick Offerman from First Midwest Bank was one who persisted contact with me.  After a few back and forth conversations and discussion of a good interest rate, I furthered my application with this bank.', 'author': 'Kim', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=3>
+{'title': 'Seamless Efficiency', 'content': 'I was extremely happy with the entire process. The application was simple and to the point; no unnecessary requirements. I had anticipated a burdensome document request. However, to my astonishment, the request was quite limited. I am very pleased with the service I received especially since I am a first-time customer.', 'author': 'Len', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Crawled (200) <GET https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=4> (referer: https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=3)
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=4>
+{'title': 'Fast easy experience', 'content': 'They walked me through everything. ', 'author': 'John', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=4>
+{'title': 'It was quick, easy and no problems. I want to thank Midwest Bank.', 'content': 'I submitted my application and received a conditional approval in less than one full day. After I submitted all of my documents, I received a final approved. Thank you.', 'author': 'Eric', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=4>
+{'title': 'Great Experience', 'content': 'I would like to personally thank Chrissy C., at First Midwest Bank.  She went above and beyond to process my loan in an extremely timely manner.  I would very much recommend First Midwest, great competitive rates and outstanding customer service.', 'author': 'Gary', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=4>
+{'title': 'It was an excellent process.', 'content': 'I was very grateful for the Loan offer from First MidWest Bank. Each person i spoke with was very kind , patient and informative. I felt very secure concerning my personal information. I felt confident and secure in the whole process. First Midwest Bank is a very trustworthy Bank organization and I am truly thankful for them.', 'author': 'Adrienne', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=4>
+{'title': 'Very nice experience', 'content': 'It was great to work with Morgan. She was right on top of everything! Great help, even when I messed up the signing process. Great rat****.will have the money the next day. Thank-you Mogan, and Midwest bank!', 'author': 'Michaelw', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=4>
+{'title': 'This was an amazing experience ', 'content': 'If you get the chance and an offer from', 'author': 'Jessica', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=4>
+{'title': 'It was very fast process.', 'content': 'The entire process was very easy and I enjoyed working with them. Customer service was outstanding. First I thought they may be a scam but when they contact me and update me with next step, i trust them. Excellent rate, fast process, less paper work. I loved it.', 'author': 'AliReza', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=4>
+{'title': 'Very good experience ', 'content': 'The process was quick and professionally accomplished.  It was thoroughly explained and followed. I would definitely use their services again if needed.', 'author': 'Haldon', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=4>
+{'title': 'Fast easy competitive ', 'content': 'They offered great rates and true to their word about the offered rates. The process was very easy to follow. They responded quickly if I had a question. I would definitely recommend them. ', 'author': 'Monica', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:41 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=4>
+{'title': 'GREAT EXPERIENCE ', 'content': 'First Midwest Bank has their loan process a simple, easy experience.  Customer service was extremely helpful. I can wholeheartedly recommend this bank.', 'author': 'Pat', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:42 [scrapy] DEBUG: Crawled (200) <GET https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=5> (referer: https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=4)
+2022-02-03 04:35:42 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=5>
+{'title': 'Great experience', 'content': 'First Midwest Bank responded to all my emails and was very patient with every question I asked and the process was done all on line and only a few phone conversations.', 'author': 'Crystal', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:42 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=5>
+{'title': 'Outstanding experience ', 'content': 'The entire process was very smooth. I want to thank Belen Cordova who was my agent. Provided excellent information, got to me right away, answer all my questions and made me feel good taking the loan. Thank you again for the awesome customer service. ', 'author': 'Aaron', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:42 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=5>
+{'title': 'Simple, easy', 'content': 'Surprised how courteous, fast and easy my process was.  Would definitely use them again and recommend to anyone. ', 'author': 'Michelle', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:42 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=5>
+{'title': 'Great experience', 'content': 'Very professional, polite, and made the process smooth and fast. The application process was submitted and then approved the next morning, and the funds available a day after that.', 'author': 'Tibor', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:42 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=5>
+{'title': 'It was a good experience', 'content': 'The entire process was pretty easy I was happy to work with them would get another loan there.  Everyone was polite and very professional', 'author': 'Randy', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:42 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=5>
+{'title': 'Professional & Quick Experience', 'content': 'Carmen Gonzalez was wonderful to work with. She replied to all my emails promptly, explained everything really well and made the whole process very easy. I would highly recommend First Midwest Bank to my family and friends.', 'author': 'Margaret', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:42 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=5>
+{'title': 'Really good experience', 'content': 'The experience was really good and the people were professional. I would do it again if I had chance.', 'author': 'Eugene', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:42 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=5>
+{'title': 'Excellent Service ', 'content': 'The process was quick and easy.  My loan processor was very helpful and kept me informed at all times. Would highly recommend family and friends. ', 'author': 'Cathy', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:42 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=5>
+{'title': 'Great experience and great personal service ', 'content': 'I had a great experience with Midwest! My loan process was quick and the service was excellent! I would recommend them to everyone! The loan officers are very professional and handled my loan like I was their only customer. ', 'author': 'John', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:42 [scrapy] DEBUG: Scraped from <200 https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183?sort=&pid=5>
+{'title': 'Amazing Experience! ', 'content': 'Cassie (& her peers) were really on the ball & made the entire process so quick & easy!  I would definitely recommend them! ', 'author': 'Lisa', 'star_rating': '(5 of 5)', 'date_of_review': 'Reviewed in January 2022'}
+2022-02-03 04:35:42 [scrapy] INFO: Closing spider (stop generating requests, only 5 requests allowed)
+2022-02-03 04:35:42 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 229,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 1167690,
+ 'downloader/response_count': 6,
+ 'downloader/response_status_count/200': 6,
+ 'elapsed_time_seconds': 2.498404,
+ 'finish_reason': 'stop generating requests, only 5 requests allowed',
+ 'finish_time': datetime.datetime(2022, 2, 3, 12, 35, 42, 314589),
+ 'httpcompression/response_bytes': 137,
+ 'httpcompression/response_count': 1,
+ 'item_scraped_count': 50,
+ 'log_count/DEBUG': 138,
+ 'log_count/INFO': 7,
+ 'memusage/max': 60014592,
+ 'memusage/startup': 60014592,
+ 'request_depth_max': 5,
+ 'response_received_count': 6,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 5,
+ 'scheduler/dequeued/memory': 5,
+ 'scheduler/enqueued': 6,
+ 'scheduler/enqueued/memory': 6,
+ 'start_time': datetime.datetime(2022, 2, 3, 12, 35, 39, 816185)}
+2022-02-03 04:35:42 [scrapy] INFO: Spider closed (stop generating requests, only 5 requests allowed)
