@@ -1,12 +1,14 @@
 # Lending Tree web Scraper built with Scrapy, Selenium,  and hosted on scrapyrt
 ## About the Project
-This spider was designed to accept requests from lendingtree.com URLs (https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183). It returns JSON data of the title of review, author, star rating, and date of review. To run queries on other lenders, it requires parameters cat= "/type_of_loan/name_of_lender/id" (ie: mortgage/silver-fin-capital-group/37405089). 
-
+This spider was designed to accept requests from lendingtree.com URLs (ie. https://www.lendingtree.com/reviews/personal/first-midwest-bank/52903183). It returns JSON data of the title of review, author, star rating, and date of review. 
+```
+To run queries on other lenders, it requires parameters cat= "/type_of_loan/name_of_lender/id" (ie: mortgage/silver-fin-capital-group/37405089). 
+```
 ## Getting Started 
 This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
-'''python
+```python
 git remote add clone https://github.com/williamle92/lendingtree.git
-'''
+```
 ## Installation
 1. Optional: Create a virtual environment using "python -m venv venv
 2. "pip install -r requirements.txt" to the venv
