@@ -4,7 +4,6 @@ from scrapy_selenium import SeleniumRequest
 from selenium.webdriver.common.keys import Keys
 
 
-
 class LendingSpiderSpider(scrapy.Spider):
     name= "lending_spider"
     closespider_itemcount=100
@@ -22,6 +21,10 @@ class LendingSpiderSpider(scrapy.Spider):
     
 
     def parse(self, response):
+        '''
+        This function retrieves information from reviews on lendingtree 
+         '''
+        
         driver = response.meta['driver']
         # Look for the more review button and set it to a variable
         more_review = driver.find_element_by_xpath('//button[@class="moreReviewBtn"]')
@@ -41,7 +44,7 @@ class LendingSpiderSpider(scrapy.Spider):
             }
         # Return the next page URL and pass it into selenium request object to run parse with URL next page
         next_page = response.xpath(".//ul[@class='lenderNav pagination']/li[@class='page-item']/a[@aria-label='Next Page']/@href").get()
-        # If next page exists, keep going
+        # If next page exists, pass in that url and a callback function parse
         if next_page:
             yield SeleniumRequest(url=next_page, wait_time=3, callback=self.parse)
         
