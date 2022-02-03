@@ -1,5 +1,7 @@
+import pytest
 from scrapy import Spider, Request
 from scrapy.http import HtmlResponse
+import requests
 
 class TestSpider(Spider):
     '''Scrapy used to generate sample.html for test'''
@@ -26,24 +28,10 @@ with Betamax.configure() as config:
     config.preserve_exact_body_bytes = True
 
 
-class TestExample(BetamaxTestCase):  # superclass provides self.session
+@pytest.mark.vcr()
+def test_parse(url, target):
+    response = requests.get(url)
+    scrapy_response = HtmlResponse(url, body=response.content)
+    assert Spider().parse(scrapy_response) == target
 
-    def test_parse(self):
-        example = TestSpider()
 
-        # http response is recorded in a betamax cassette:
-        response = self.session.get(example.url)
-
-        # forge a scrapy response to test
-        scrapy_response = HtmlResponse(body=response.content, url=example.url)
-
-        result = example.parse(scrapy_response)
-
-        self.assertEqual({'image_href': u'image1.html'}, result.next())
-        self.assertEqual({'image_href': u'image2.html'}, result.next())
-        self.assertEqual({'image_href': u'image3.html'}, result.next())
-        self.assertEqual({'image_href': u'image4.html'}, result.next())
-        self.assertEqual({'image_href': u'image5.html'}, result.next())
-
-        with self.assertRaises(StopIteration):
-            result.next()
